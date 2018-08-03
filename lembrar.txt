@@ -1,0 +1,7 @@
+1 - criar arquivo (touch, nano, vim, atom...)
+2 - git add . OU git <nome do arquivo> (*)
+3 - git commit -m "Mensagem do commit" (**)
+4 - git push (login e senha)
+
+* - git status para ver os adicionados
+** - git log para ver o commits
